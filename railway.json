@@ -1,5 +1,6 @@
 {
-    "build": "echo 'No build necessary'",
-    "start": "npx serve public"
+    "build": {
+      "command": "npm run build"
+    }
 }
   
